@@ -27,7 +27,11 @@
 
 - ⚡ Fun fact **I think i am good Artist**
 
+  
+[![AvdheshKumarSharma's GitHub | Stats](https://stats.quine.sh/AvdheshKumarSharma/github?theme=dark)](https://quine.sh)
+[![AvdheshKumarSharma's GitHub | Topics](https://stats.quine.sh/AvdheshKumarSharma/topics-over-time?theme=dark)](https://quine.sh)
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avdhesh-kumar-sharma-751a49225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avdhesh-kumar-sharma-751a49225" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucvt1i9vrusxbdnnwppgmupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucvt1i9vrusxbdnnwppgmupa" height="30" width="40" /></a>
