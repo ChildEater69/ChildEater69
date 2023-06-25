@@ -29,7 +29,7 @@
 
   
 [![AvdheshKumarSharma's GitHub | Stats](https://stats.quine.sh/AvdheshKumarSharma/github?theme=dark)](https://quine.sh)
-[![AvdheshKumarSharma's GitHub | Topics](https://stats.quine.sh/AvdheshKumarSharma/topics-over-time?theme=dark)](https://quine.sh)
+[![AvdheshKumarSharma's GitHub | Languages Over Time](https://stats.quine.sh/AvdheshKumarSharma/languages-over-time?theme=dark)](https://quine.sh)
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
