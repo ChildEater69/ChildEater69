@@ -27,8 +27,6 @@
 
 - ⚡ Fun fact **I think i am good Artist**
 
-  
-[![AvdheshKumarSharma's GitHub | Stats](https://stats.quine.sh/AvdheshKumarSharma/github?theme=dark)](https://quine.sh)
 [![AvdheshKumarSharma's GitHub | Languages Over Time](https://stats.quine.sh/AvdheshKumarSharma/languages-over-time?theme=dark)](https://quine.sh)
 <h3 align="left">Connect with me:</h3>
 
@@ -44,9 +42,15 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=childeater69&show_icons=true&locale=en&layout=compact" alt="childeater69" /></p>
+> Language usage
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=childeater69&show_icons=true&locale=en" alt="childeater69" /></p>
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=childeater69&theme=gruvbox_light&layout=compact"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=childeater69&" alt="childeater69" /></p>
-
+<div align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=childeater69&show_icons=true&locale=en&theme=gruvbox_light&layout=compact" alt="childeater69" /><br />
+</div>
+<div align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=childeater69&theme=gruvbox_light&layout=compact"" alt="childeater69" />
+</div>
